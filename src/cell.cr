@@ -1,5 +1,4 @@
-require "./surfacable"
-# error raises only if to run file directly 
+require "./surfacable" 
 require "./surface_walker"
 
 class Cell

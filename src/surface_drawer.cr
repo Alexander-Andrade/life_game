@@ -1,4 +1,5 @@
 require "./surfacable"
+require "./surface_walker"
 
 class SurfaceDrawer
   getter :surface
